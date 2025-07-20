@@ -28,21 +28,8 @@ This project aims to assist medical professionals by automating the process of l
 
 ---
 
-## ▶️ How to Run
 
-1. Open **MATLAB**.
-2. Navigate to the project folder.
-3. Run the following command in the Command Window:
-
-```matlab
-CAD_GUI
-
-
----
-
-##
-
---- Smple Output Template
+## Smple Output Template
 
 https://github.com/user-attachments/assets/0c81fa30-291d-40f5-afd3-3d7fab752248
 
